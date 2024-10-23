@@ -1,26 +1,25 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Debangshu Kumar
 <a href="https://www.linkedin.com/in/debangshu-kumar-14413a227/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+Hello Friends. I am a 3rd year student of RKMGEC, Purulia. Currently I am pursuing my B.Tech Degree from CSE branch.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+As a 3rd-year B.Tech student specializing in Computer Science and Engineering at RKMGEC, Purulia .                                                                     
+I am eager to pursue a career in the <span style="color: blue;">**Blue Team**</span> of cybersecurity. With a passion for safeguarding systems from threats and ensuring data security, I aim to leverage my technical skills and knowledge to contribute to the defense strategies of organizations, focusing on proactive measures to detect, respond to, and mitigate cyber threats.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Networking Fundamentals:                        | <a href="https://app.letsdefend.io/my-rewards/detail/04d9628f-fc3a-4098-9420-6bdfa49c94c8">Network Cable</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Malware Traffic Analysis with Wireshark         | <a href="https://app.letsdefend.io/my-rewards/detail/6c4fb8fb-2c4a-4f83-9fca-d679c205b26e">Wireshark Expert</a>|
+| Phishing Email Analysis                         | <a href="https://app.letsdefend.io/my-rewards/detail/326e9945-c1eb-4aa2-8d21-14f6f5311e4f">Phishing Expert</a>|
+| Malware Analysis                                | <a href="https://app.letsdefend.io/my-rewards/detail/8582bbd4-962a-4543-9f0e-89987917b636">Phishing Expert</a>|
+| Scripting and Automation for Threat Mitigation  | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
