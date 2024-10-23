@@ -12,17 +12,17 @@ I am eager to pursue a career in the <span style="color: blue;">**Blue Team**</s
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Badge         |
 |-----------------------------------------------|----------------------------|
 | Networking Fundamentals:                        | <a href="https://app.letsdefend.io/my-rewards/detail/04d9628f-fc3a-4098-9420-6bdfa49c94c8">Network Cable</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://app.letsdefend.io/my-rewards/detail/6c4fb8fb-2c4a-4f83-9fca-d679c205b26e">Wireshark Expert</a>|
 | Malware Traffic Analysis with Wireshark         | <a href="https://app.letsdefend.io/my-rewards/detail/6c4fb8fb-2c4a-4f83-9fca-d679c205b26e">Wireshark Expert</a>|
 | Phishing Email Analysis                         | <a href="https://app.letsdefend.io/my-rewards/detail/326e9945-c1eb-4aa2-8d21-14f6f5311e4f">Phishing Expert</a>|
-| Malware Analysis                                | <a href="https://app.letsdefend.io/my-rewards/detail/8582bbd4-962a-4543-9f0e-89987917b636">Phishing Expert</a>|
+| Malware Analysis                                | <a href="https://app.letsdefend.io/my-rewards/detail/8582bbd4-962a-4543-9f0e-89987917b636">Malware Analyzer</a>|
 | Scripting and Automation for Threat Mitigation  | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -44,7 +44,7 @@ I am eager to pursue a career in the <span style="color: blue;">**Blue Team**</s
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+<!--## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -52,7 +52,7 @@ I am eager to pursue a career in the <span style="color: blue;">**Blue Team**</s
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+</div>-->
 
 ## Projects
 - Detection Lab
