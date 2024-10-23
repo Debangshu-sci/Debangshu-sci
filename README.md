@@ -10,7 +10,7 @@ I am eager to pursue a career in the <span style="color: blue;">**Blue Team**</s
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Badge         |
 |-----------------------------------------------|----------------------------|
