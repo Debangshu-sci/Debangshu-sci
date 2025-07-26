@@ -3,7 +3,7 @@
     <a href="https://www.linkedin.com/in/debangshu-kumar-14413a227/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.instagram.com/debangshu_sci/"><img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
-Hello Friends. I am a 3rd year student of RKMGEC, Purulia(W.B) , India . Currently I'm pursuing my B.Tech Degree in CSE branch.
+Hello Friends. I  am 3rd year student of RKMGEC, Purulia(W.B) , India . Currently I'm pursuing my B.Tech Degree in CSE branch.
 
 
 ## Objective
