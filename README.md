@@ -7,7 +7,7 @@ Hello Friends. I  am final year student of RKMGEC, Purulia(W.B) , India . Curren
 
 
 ## Objective
-As a 3rd-year B.Tech student specializing in Computer Science and Engineering at RKMGEC, Purulia .                                                                     
+As B.Tech student specializing in Computer Science and Engineering at RKMGEC, Purulia .                                                                     
 I am eager to pursue a career in the <span style="color: blue;">**Blue Team**</span> of cybersecurity. With a passion for safeguarding systems from threats and ensuring data security, I aim to leverage my technical skills and knowledge to contribute to the defense strategies of organizations, focusing on proactive measures to detect, respond to, and mitigate cyber threats.
 
 
